@@ -1,3 +1,4 @@
 # Medical_Insurance_Prediction
 
-<img width="480" height="288" alt="image" src="https://github.com/user-attachments/assets/afe8180e-b3fa-4cd3-b0f9-6e9339cdf8f6" />
+<img width="659" height="360" alt="image" src="https://github.com/user-attachments/assets/da72587b-bb85-4f41-9bb1-f839a850843d" />
+
