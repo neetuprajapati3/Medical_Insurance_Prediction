@@ -80,4 +80,5 @@ The regression model is evaluated using:
 ## 🧪 How to Run This Project
 1. Clone the repository:
    git clone
+   https://github.com/neetuprajapati3/Medical_Insurance_Prediction/tree/main
    
